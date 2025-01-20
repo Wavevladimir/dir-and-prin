@@ -1,4 +1,5 @@
 import requests
+import pandas
 
 my_request = requests.get('https://www.python.org')
 
